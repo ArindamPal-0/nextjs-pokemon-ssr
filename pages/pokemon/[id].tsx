@@ -1,6 +1,6 @@
 /* eslint-disable @next/next/no-img-element */
 import Head from "next/head";
-import Link from "next/Link";
+import Link from "next/link";
 import styles from "../../styles/Details.module.css";
 
 interface Stat {
