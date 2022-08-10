@@ -12,6 +12,12 @@
 
 <br>
 
+### Vercel Deployed
+
+[link](https://nextjs-pokemon-gzuw84vnd-arindampal-0.vercel.app/)
+
+to deploy on vercel just add the github repo as a project in the vercel dashboard and select the main branch. Tad tada! **Project Deployed**.
+
 ### Env Setup
 
 installing dependencies and running dev server.
